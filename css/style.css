@@ -54,6 +54,12 @@
     General
 ====================================== */
 
+
+p.text-dark.header {
+    height: 30px;
+}
+
+
 section#getintouch {
     padding-top: 50px;
     padding-bottom: 50px;
