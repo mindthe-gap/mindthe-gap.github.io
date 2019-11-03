@@ -79,7 +79,7 @@ section#process {
 }
 
 .company-about {
-    font-size:18px;
+    font-size:18px !important;
 }
 
 
@@ -131,7 +131,7 @@ section#price {
     margin:0;
     padding:0;
     margin-left: 2px;
-    font-size: 15px;
+    font-size: 18px;
     display: inline-block;
     line-height: 80px;
     vertical-align: top;
