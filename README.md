@@ -1,1 +1,0 @@
-# mindthe-gap.github.io
