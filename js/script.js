@@ -440,20 +440,8 @@ jQuery(function ($) {
         nav: false,
         loop: true,
         dots: false,
-        autoplay: true,
-        autoplayTimeout: 2000,
-        autoplayHoverPause: true,
-        responsive: {
-            991: {
-                items: 2,
-                autoplayHoverPause:true,
-                autoplay: true,
-                autoplayTimeout: 2000,
-            },
-            300: {
-                items: 1,
-            },
-        }
+        autoplay: false,
+
 
     });
 

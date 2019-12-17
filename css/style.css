@@ -170,6 +170,10 @@ ul.team-progress.text-left {
     width: 320px;
 }
 
+.owl-stage {
+    margin-left: 300px !important;
+}
+
 
 /*
 .owl-stage {
